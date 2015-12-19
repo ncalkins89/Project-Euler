@@ -1,0 +1,1 @@
+# exec(open("C:\\Users\\calkinsn\\Desktop\\Scripts\\Python\\project euler problem 20.py").read())

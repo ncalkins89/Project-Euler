@@ -1,0 +1,2 @@
+# execute a .py file from shell
+exec(open("C:\\Users\\calkinsn\\Desktop\\Scripts\\Python\\project euler problem 9.py").read())
